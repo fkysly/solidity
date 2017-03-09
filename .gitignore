@@ -34,6 +34,8 @@
 build/
 docs/_build
 docs/utils/__pycache__
+docs-zh/_build
+docs-zh/utils/__pycache__
 
 # vim stuff
 *.swp
